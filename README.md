@@ -53,8 +53,8 @@ I am **Taufique Ali**, a passionate **MERN Stack Developer** with **1.5 years of
 ## 📫 Let's Connect!
 If you’re looking for a motivated developer to bring your project to life or collaborate on an exciting idea, feel free to reach out:  
 
-- **Email:** [your-email@example.com](mailto:taufique.ali@itdoseinfo.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/taufique-ali-270071349/)  
+- **Email:** [email-me](mailto:taufique.ali@itdoseinfo.com)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/taufique-ali-270071349/)  
 
 ---
 
