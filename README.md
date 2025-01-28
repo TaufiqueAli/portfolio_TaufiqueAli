@@ -23,11 +23,11 @@ I am **Taufique Ali**, a passionate **MERN Stack Developer** with **1.5 years of
 
 ### Frontend Skills:
 - **Frameworks & Libraries:** React.js, Next.js  
-- **Styling Tools:** Tailwind CSS, CSS3, HTML5  
+- **Styling Tools:** Tailwind CSS, CSS3, HTML5, Boostrap  
 
 ### Backend Skills:
-- **Technologies:** Node.js, Express.js  
-- **API Development:** RESTful APIs, Authentication (JWT, OAuth)  
+- **Technologies:** Node.js, Express.js
+- **API Development:** RESTful APIs, Authentication (JWT, OAuth), Web3, Smart Contract RPC 
 
 ### Database Skills:
 - **NoSQL Databases:** MongoDB  
